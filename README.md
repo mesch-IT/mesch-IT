@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesch-it&label=Profile%20views&color=0e75b6&style=flat" alt="mesch-it" /> </p>
 
-- 🌱 I’m currently learning **Angular, React and Express**
+- 🌱 I’m fullstack developer  from DRC 
 
 - 📫 How to reach me **meschackkapanga@gmail.com**
 
